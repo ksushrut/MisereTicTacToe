@@ -4,7 +4,7 @@ Tic Tac Toe game with a slight twist
 Tic Tac Toe is a game which we would have definitely played during our childhood. However, with a decent understanding of the game, the game turns out to be draw more often then not. Therefore, the Misere(which literally means misery) version of the game, involves changing the winning criteria. The person to score three in a row, loses. 
 This idea was adapted from a Numberphile video: https://www.youtube.com/watch?v=ktPvjr1tiKk
 
-check function: Takes parameter as the square or the board in the form of list
+check function: Takes parameter as the square or the board in the form of list<br>
 Return -1 if three in a row occur
 Return 1 if the game is going on
 Return 0 in case of a draw
