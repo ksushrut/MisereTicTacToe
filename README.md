@@ -12,7 +12,7 @@ Return 0 in case of a draw
 board function: Takes parameter as the square or the board in the form of list
 Displays the board
 
-main function: Determines the result of the game between Player 1 and Player 2
+main function: Determines the result of the game between Player 1 and Player 2<br>
 Algorithm:
 1. Start with player 1. Input choice/square number for player 1. 
 2. Update the matrix at the particular location in the list.
