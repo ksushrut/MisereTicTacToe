@@ -5,12 +5,12 @@ Tic Tac Toe is a game which we would have definitely played during our childhood
 This idea was adapted from a Numberphile video: https://www.youtube.com/watch?v=ktPvjr1tiKk
 
 check function: Takes parameter as the square or the board in the form of list<br>
-Return -1 if three in a row occur
-Return 1 if the game is going on
-Return 0 in case of a draw
+Return -1 if three in a row occur<br>
+Return 1 if the game is going on<br>
+Return 0 in case of a draw<br>
 
 board function: Takes parameter as the square or the board in the form of list
-Displays the board
+Displays the board<br>
 
 main function: Determines the result of the game between Player 1 and Player 2<br>
 Algorithm:
