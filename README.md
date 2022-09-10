@@ -21,9 +21,3 @@ Algorithm:
 5. Call the check function to see if the game has ended or not.
 6. If not, goto step 1. If yes, check if draw or which player has lost.
 
-![image](https://user-images.githubusercontent.com/62986960/189485727-95aae2eb-6436-47b0-beb8-4c78f24b9f1d.png)
-(player 1 lost)
-![image](https://user-images.githubusercontent.com/62986960/189485781-dc0f1b0b-3a44-40a8-a3c4-cbc65735a38e.png)
-(player 2 lost)
-![image](https://user-images.githubusercontent.com/62986960/189485825-5bb2dc44-7b9f-4d7a-bcba-3fde581dd0a1.png)
-(draw)
